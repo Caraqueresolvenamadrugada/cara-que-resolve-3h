@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>O Cara Que Resolve Às 3h</title>
+  <style>
+    body {
+      background-color: #0c0c0c;
+      color: #f8f8f8;
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 2rem;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2.5rem;
+      color: #FFD700;
+    }
+    p {
+      font-size: 1.2rem;
+      margin-bottom: 1.5rem;
+    }
+    .btn {
+      display: inline-block;
+      padding: 1rem 2rem;
+      font-size: 1.2rem;
+      background-color: #FFD700;
+      color: #000;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background-color: #ffc400;
+    }
+    .section {
+      margin-top: 3rem;
+    }
+    .highlight {
+      color: #FFD700;
+      font-weight: bold;
+    }
+    footer {
+      margin-top: 4rem;
+      font-size: 0.9rem;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>O Cara Que Resolve Às 3h</h1>
+    <p>Você tá acordado, inquieto, sem rumo — eu sei como é. <span class="highlight">E sei como mudar.</span></p>
+    <a href="https://t.me/ocaraquerezolveas3h" class="btn">Me Chama no Telegram</a>
+
+    <div class="section">
+      <h2>🔥 O Que Eu Ofereço</h2>
+      <p>Consultoria criativa brutal, nomes que vendem, slogans que grudam, ideias de renda pra agora.</p>
+      <p>Combo <span class="highlight">Ebook + Mapa Pessoal</span> por apenas <span class="highlight">R$70 no Pix</span>.</p>
+      <p>Entrega imediata. Vagas limitadas até amanhecer.</p>
+    </div>
+
+    <div class="section">
+      <h2>📘 Ebook Exclusivo</h2>
+      <p><strong>"7 Ideias de Renda Pra Quem Tá Quebrado, Acordado e Com Raiva da Própria Vida"</strong></p>
+      <p>+ Mapa Pessoal de Destravamento Imediato (personalizado).</p>
+    </div>
+
+    <div class="section">
+      <h2>💸 Como Pagar</h2>
+      <p>Pix simples: <span class="highlight">[ojonatarosa@gmail.com]</span></p>
+      <p>Após o pagamento, envie o comprovante no Telegram e receba tudo em até 10 minutos.</p>
+    </div>
+
+    <footer>
+      @ocaraquerezolveas3h — Só os corajosos agem na madrugada.
+    </footer>
+  </div>
+</body>
+</html>
